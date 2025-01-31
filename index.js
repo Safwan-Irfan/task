@@ -20,6 +20,6 @@
 // }
 
 var age = prompt("Enter your age")
-var msg = (age <= 18 ) ? "You're Young" : "You're Old";
+var msg = (age <= 30 ) ? "You're Young" : "You're Old";
 
 alert(msg);
